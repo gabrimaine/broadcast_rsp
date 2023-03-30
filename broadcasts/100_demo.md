@@ -1,6 +1,5 @@
 ---
 summary: This is a new **demo** broadcast notification, powered by [Semaphore](https://github.com/lsst-sqre/semaphore).
-env: ccin2p3
 enabled: true
 ---
 
