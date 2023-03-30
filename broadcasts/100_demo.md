@@ -1,5 +1,5 @@
 ---
-summary: This is a second  **demo** broadcast notification, powered by [Semaphore](https://github.com/lsst-sqre/semaphore).
+summary: This is a third  **demo** broadcast notification, powered by [Semaphore](https://github.com/lsst-sqre/semaphore).
 enabled: true
 ---
 
