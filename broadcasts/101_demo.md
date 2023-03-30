@@ -1,7 +1,5 @@
 ---
 summary: Portal issues? Log out and in again
-env:
-  - stable
 enabled: true
 ---
 
