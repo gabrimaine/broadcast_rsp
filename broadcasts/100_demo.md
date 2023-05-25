@@ -3,7 +3,7 @@ summary: This is a fourth  **demo** broadcast notification, powered by [Semaphor
 env: ccin2p3
 enabled: true
 category: info
-ttl: 30m
+ttl: 10m
 ---
 
 This message is sourced from the [`lsst-sqre/rsp_broadcast`](https://github.com/lsst-sqre/rsp_broadcast) directory.
