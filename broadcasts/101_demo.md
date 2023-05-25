@@ -1,6 +1,6 @@
 ---
 summary: Portal issues 3? Log out and in again
-enabled: true
+enabled: false
 ---
 
 If you get an unexpected 403 (permission denied) error while trying to access the portal at NCSA's stable cluster, log out from the top right menu on the RSP home page (aka "Square One") and log in again.
