@@ -1,7 +1,7 @@
 ---
 summary: This is a fourth  **demo** broadcast notification, powered by [Semaphore](https://github.com/lsst-sqre/semaphore).
 env: ccin2p3
-enabled: false
+enabled: true
 category: info
 ttl: 10m
 ---
