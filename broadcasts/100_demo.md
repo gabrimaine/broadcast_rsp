@@ -1,11 +1,9 @@
 ---
-summary: This is a fourth  **demo** broadcast notification, powered by [Semaphore](https://github.com/lsst-sqre/semaphore).
+summary: The notebook service has been updated and now the "home" for this service has been moved to /sps/lsst/users/<login>/rsp_home.
 env: ccin2p3
 enabled: false
 category: info
 ttl: 10m
 ---
 
-This message is sourced from the [`lsst-sqre/rsp_broadcast`](https://github.com/lsst-sqre/rsp_broadcast) directory.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin facilisis pharetra neque, at semper nulla mattis auctor. Proin semper mollis enim eget interdum. Mauris eleifend eget diam vitae bibendum. Praesent ut aliquet odio, sodales imperdiet nisi. Nam interdum imperdiet tortor sed fringilla. Maecenas efficitur mi sodales nulla commodo rutrum. Ut ornare diam quam, sed commodo turpis aliquam et. In nec enim consequat, suscipit tortor sit amet, luctus ante. Integer dictum augue diam, non pulvinar massa euismod in. Morbi viverra condimentum auctor. Nullam et metus mauris. Cras risus ex, porta sit amet nibh et, dapibus auctor leo.
+Due to the update of the application that provides RSP notebook services, the notebook home has been moved to /sps/lsst/users/<login>/rsp_home. 
