@@ -2,7 +2,7 @@
 summary: New "home" for the notebook platform.
 env: ccin2p3
 enabled: true
-category: warning
+category: maintenance
 ttl: 10m
 ---
 
