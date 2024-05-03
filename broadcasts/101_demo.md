@@ -1,7 +1,10 @@
 ---
-summary: Portal issues 3? Log out and in again
-enabled: false
+summary: Butler access from the notebook platform.
+env: ccin2p3
+enabled: true
+category: info
+ttl: 10m
 ---
 
-If you get an unexpected 403 (permission denied) error while trying to access the portal at NCSA's stable cluster, log out from the top right menu on the RSP home page (aka "Square One") and log in again.
-All should be fine after that.
+The production butler at CC-IN2P3 is now accessible from the notebook platform. 
+A set of tutorial notebooks is available within the notebook platform to help you. 
